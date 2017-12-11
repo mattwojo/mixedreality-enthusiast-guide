@@ -38,6 +38,10 @@ Your feedback is invaluable when it comes to improving the Windows Mixed Reality
 4. Describe what SteamVR game or application you were using when you encountered the issue.
 5. Please consider attaching a SteamVR System Report to your feedback. This provides additional logs that can help us diagnose your problem. 
     1. On the SteamVR Window (the small windows that shows your controller status) click on the title to open the menu.
+      - deeper nesting
+        1. even deeper nesting
+        2. this is red - uh oh
+      -more bullets
     2. Select "Create System Report"
     3. Save to File
     4. Attach the file to your Feedback Hub entry directly.
