@@ -41,7 +41,8 @@ Your feedback is invaluable when it comes to improving the Windows Mixed Reality
       - deeper nesting
         1. even deeper nesting
         2. this is red - uh oh
-      -more bullets
+      - more bullets
+      - even more bullets
     2. Select "Create System Report"
     3. Save to File
     4. Attach the file to your Feedback Hub entry directly.
